@@ -1,0 +1,21 @@
+{
+  "name": "saeef32-adventure-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "index.js",
+  "author": "Muhammad Saeef",
+  "license": "MIT",
+  "dependencies": {
+    "calk": "^0.0.1-security",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
